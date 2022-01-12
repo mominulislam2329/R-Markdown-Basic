@@ -1,0 +1,17 @@
+---
+title: "R Markdown Basics"
+author: "Md Mominul Islam"
+date: "1/11/2022"
+output: pdf_document
+toc : TRUE
+number_sections: TRUE
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+\listoftables
+\listoffigures
+
+## R Markdown
